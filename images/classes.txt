@@ -1,0 +1,5 @@
+car
+pedestrian
+pothole
+motorcycle
+cycle
